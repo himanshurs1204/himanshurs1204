@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Himanshu Suryawanshi 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00A1D6&center=true&vCenter=true&width=450&lines=MERN+Stack+Backend+Developer;Cybersecurity+Explorer;Java+%7C+Node.js+%7C+React+%7C+MongoDB" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00A1D6&center=true&vCenter=true&width=450&lines=MERN+Stack;Backend+Developer;Cybersecurity+Explorer;Java+%7C+Node.js+%7C+React+%7C+MongoDB" />
 </p>
 
 ---
